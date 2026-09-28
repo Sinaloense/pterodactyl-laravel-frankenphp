@@ -18,9 +18,9 @@ This repository provides what is needed to run FrankenPHP as part of a Pterodact
 - FrankenPHP integration directly from a Pterodactyl-managed server.
 - Automatic Composer installations when starting your server.
 - Integrated `trusted_proxies`.
-- FrankenPHP version: `1.12.6`.
+- FrankenPHP version: `1.12.7`.
 - Caddy version: `2.11.4`.
-- PHP versions: `8.5.10, 8.4.25, 8.3.33`.
+- PHP versions: `8.5.11, 8.4.26, 8.3.35`.
 
 ## Requirements
 
